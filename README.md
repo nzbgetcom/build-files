@@ -12,3 +12,5 @@ LibXML2	2.12.4  ->  2.13.5
 ncurses	6.4     ->  6.5
 OpenSSL	3.1.2   ->  3.4.1
 ```
+
+v3.0 - added boost::filesystem
