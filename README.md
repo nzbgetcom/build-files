@@ -21,3 +21,6 @@ v3.0
 
 v4.0
 - update 7-Zip to 25.01
+
+v5.0
+- update OpenSSL 3.4.1 -> 3.5.4
