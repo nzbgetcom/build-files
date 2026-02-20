@@ -24,3 +24,8 @@ v4.0
 
 v5.0
 - update OpenSSL 3.4.1 -> 3.5.4
+
+v6.0
+- update OpenSSL 3.5.4 -> 3.5.5 (Linux / FreeBSD / Android only)
+- update 7-Zip to 26.00
+- update UnRAR to 7.20
