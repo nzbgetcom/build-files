@@ -29,3 +29,7 @@ v6.0
 - update OpenSSL 3.5.4 -> 3.5.5 (Linux / FreeBSD / Android only)
 - update 7-Zip to 26.00
 - update UnRAR to 7.20
+
+v7.0
+- update 7-Zip to 26.01
+- update UnRAR to 7.21
