@@ -33,3 +33,9 @@ v6.0
 v7.0
 - update 7-Zip to 26.01
 - update UnRAR to 7.21
+
+v8.0
+- update buildroot to buildroot-2025.02.13
+- update Android NDK to r27c
+- update FreeBSD sysroot to 13.4
+- rebuild all libs / unpackers with new toolchains
