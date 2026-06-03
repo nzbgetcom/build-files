@@ -39,3 +39,6 @@ v8.0
 - update Android NDK to r27c
 - update FreeBSD sysroot to 13.4
 - rebuild all libs / unpackers with new toolchains
+
+v9.0
+- update UnRAR to 7.22 (Windows / macOS only)
