@@ -42,3 +42,7 @@ v8.0
 
 v9.0
 - update UnRAR to 7.22 (Windows / macOS only)
+
+v10.0
+- update 7-Zip to 26.02
+- update UnRAR to 7.23
