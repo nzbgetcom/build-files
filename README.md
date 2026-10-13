@@ -46,3 +46,7 @@ v9.0
 v10.0
 - update 7-Zip to 26.02
 - update UnRAR to 7.23
+
+v11.0
+- add Linux musl cross-toolchains (GCC 14.3.0, musl 1.2.6 with time64 kernel compact, binutils 2.44) for x86_64, aarch64, armhf, armel, i686, ppc6xx, riscv64
+
